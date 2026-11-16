@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "q63RtOvPkSs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mercy\\RiderProjects\\Lab11-MercyJanampa\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mercy\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.33\\microsoft.netcore.app.ref.8.0.33.nupkg.sha512",
+    "C:\\Users\\mercy\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.33\\microsoft.windowsdesktop.app.ref.8.0.33.nupkg.sha512",
+    "C:\\Users\\mercy\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.33\\microsoft.aspnetcore.app.ref.8.0.33.nupkg.sha512"
+  ],
+  "logs": []
+}

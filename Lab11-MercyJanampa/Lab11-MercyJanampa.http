@@ -1,0 +1,6 @@
+@Lab11_MercyJanampa_HostAddress = http://localhost:5062
+
+GET {{Lab11_MercyJanampa_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
