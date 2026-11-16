@@ -66,3 +66,4 @@ C:\Users\mercy\RiderProjects\Lab11-MercyJanampa\Lab11-MercyJanampa\obj\Debug\net
 C:\Users\mercy\RiderProjects\Lab11-MercyJanampa\Lab11-MercyJanampa\obj\Debug\net8.0\Lab11-MercyJanampa.pdb
 C:\Users\mercy\RiderProjects\Lab11-MercyJanampa\Lab11-MercyJanampa\obj\Debug\net8.0\Lab11-MercyJanampa.genruntimeconfig.cache
 C:\Users\mercy\RiderProjects\Lab11-MercyJanampa\Lab11-MercyJanampa\obj\Debug\net8.0\ref\Lab11-MercyJanampa.dll
+C:\Users\mercy\RiderProjects\Lab11-MercyJanampa\Lab11-MercyJanampa\obj\Debug\net8.0\Lab11-MercyJanampa.sourcelink.json
