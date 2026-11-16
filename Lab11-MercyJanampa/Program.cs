@@ -1,7 +1,5 @@
-using Lab11_MercyJanampa.Application.UseCases.Tickets.Commands;
 using Lab11_MercyJanampa.Infrastructure.Configuration;
 using Lab11_MercyJanampa.Application.Configuration;
-using Lab11_MercyJanampa.Infrastructure.Configuration;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -20,6 +18,8 @@ app.UseSwagger();
 app.UseSwaggerUI();
 
 app.UseAuthorization();
+
+app.MapGet("/", () => "Lab14 Mercy Janampa API funcionando correctamente.");
 
 app.MapControllers();
 
